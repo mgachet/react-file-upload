@@ -1,0 +1,16 @@
+import React from 'react';
+
+const AboutPage = () => {
+    return (
+        <>
+            <h1>About Page</h1>
+            <p>Donec congue luctus blandit. Cras euismod sem at quam pellentesque luctus. Duis sit amet mauris ligula. Cras dictum sed ipsum eu tempus. Aliquam pulvinar dui eget hendrerit varius. Phasellus laoreet aliquet accumsan. Donec nec vestibulum augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent et ultrices nisi. Ut lacinia velit in malesuada consectetur. Donec nec lacinia purus. Aliquam varius, ligula eu volutpat hendrerit, sapien nibh auctor sem, quis tempor tellus nunc dignissim est.</p>
+            <p>Phasellus aliquam tellus in est ornare, sed porttitor libero fermentum. Pellentesque a interdum nisl. Aliquam lobortis accumsan tempor. Donec sed magna vel ipsum scelerisque ornare. Fusce vitae sapien odio. Nunc cursus hendrerit elementum. Nullam tristique a erat ut vehicula. Vivamus in nisl a sapien condimentum vestibulum. Mauris rutrum tortor nec erat maximus, nec pharetra diam convallis. Nulla gravida, elit fringilla molestie sodales, quam magna molestie justo, in lacinia purus risus ut nisi. Fusce molestie venenatis velit, eu feugiat sapien ultricies eget. Mauris id nulla eget neque mattis aliquet ac id urna. Mauris eleifend nibh a dapibus lobortis. Duis ac turpis quis risus aliquet dignissim. Pellentesque efficitur laoreet luctus. Aenean eu mollis sapien.</p>
+            <p>Proin placerat ex eu ante lobortis dictum. Vestibulum quis velit vitae mi tristique facilisis vitae sit amet sem. Fusce blandit justo vitae tellus finibus pretium. Cras viverra aliquet accumsan. Sed a imperdiet lorem. Suspendisse ullamcorper velit at iaculis egestas. Etiam lobortis efficitur justo non dignissim. Donec porttitor fermentum purus et gravida. Nulla lorem mi, scelerisque ac dui vel, feugiat ultrices mi. Praesent posuere, justo vel bibendum tempus, est tortor vestibulum lorem, eget posuere mi lacus et risus. Duis nec convallis nibh. Curabitur cursus sollicitudin turpis, ut scelerisque eros tempus tristique. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum malesuada congue interdum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean varius enim ut sem dignissim, vel sodales eros convallis. Fusce at mollis velit, feugiat accumsan libero. Morbi eget eros egestas, faucibus elit in, auctor mauris. Phasellus convallis non neque a congue. In quis volutpat justo, vitae venenatis justo. Pellentesque ut sagittis risus. Nullam eleifend facilisis ipsum aliquam congue. Proin consequat gravida dui pellentesque malesuada. Integer dolor tortor, mollis eu mollis ut, ultrices ut purus. Sed varius rutrum tortor. Donec sed urna purus.</p>
+            <p>Ut neque quam, porta non bibendum ut, pulvinar vitae ex. Suspendisse eu sodales est. Proin eleifend vulputate purus et iaculis. Maecenas id porta sapien. Pellentesque sollicitudin dui quis nunc aliquam posuere. Etiam ut augue et orci mollis finibus. Suspendisse vestibulum orci condimentum, placerat neque vitae, suscipit leo. Aliquam porta pellentesque eros, ut iaculis tellus lacinia vel. Donec non orci non mi sollicitudin porttitor nec eu risus. Sed eu est dictum urna vestibulum lacinia.</p>
+        </>
+    );
+}
+
+export default AboutPage;
