@@ -7,6 +7,7 @@ const FileUpload = () => {
     const onFileChange = event => {
         // Update the state 
         setSelectedFile(event.target.files[0]);
+        console.log(event.target.files[0]);
     };
 
     // On file upload (click the upload button) 
